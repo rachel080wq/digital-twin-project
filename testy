@@ -1,2 +1,10 @@
 hi
 hey
+
+
+def hi(x, y)
+x = 2 + 3
+y = x - 2
+return y
+
+print(y)
