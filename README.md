@@ -1,4 +1,3 @@
-# biocoding
 # Digital Twin Project (Control-Trajectory Forecaster for UPDRS-III Scores in Parkinson's Disease)
 
 Minimal digital-twin prototype that predicts longitudinal patient UPDRS-III motor scores, if untreated, using baseline clinical and cerebrospinal fluid (CSF) proteomic data. 
