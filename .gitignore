@@ -1,1 +1,10 @@
+outputs/
+*.json
+*.csv
+*.png
 
+#jupyter checkpts
+#.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
