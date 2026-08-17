@@ -100,8 +100,8 @@ The script does as follows:
 4. Split control patients into train/test (80/20) at the patient level
 5. Build baseline peptide matrix (first visit per patient)
 6. Remove peptides with >30% missingness at baseline
-7. impute remaining missing peptide values with median (per peptide)
-8. standardise peptides (zero mean, unit variance)
+7. Impute remaining missing peptide values with median (per peptide)
+8. Standardise peptides (zero mean, unit variance)
 9. Apply PCA (10 components) to baseline peptides
 10. Construct modelling table (long format) with:
     - visit_month, visit_year, updrs_3, baseline_updrs_3
