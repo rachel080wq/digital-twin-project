@@ -67,9 +67,9 @@ Within control patients:
 
 ## Repository Structure
 
-.gitignore
-\n README.md
-digi-twin-public-release.ipynb
+.gitignore  
+README.md  
+digi-twin-public-release.ipynb  
 requirements.txt
 
 ## Environment & Dependencies
